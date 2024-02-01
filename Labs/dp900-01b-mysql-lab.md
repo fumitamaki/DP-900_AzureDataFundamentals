@@ -48,5 +48,3 @@ lab:
     ![[Azure Database for MySQL] ページが表示されている Azure portal のスクリーンショット。](images/mysql-portal.png)
 
 1. Azure Database for MySQL リソースを管理するためのオプションを確認します。
-
-> **ヒント**: Azure Database for MySQL の調査が完了している場合は、この演習で作成したリソース グループを削除してください。

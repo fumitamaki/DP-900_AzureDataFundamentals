@@ -48,5 +48,3 @@ lab:
     ![[Azure Database for PostgreSQL] ページが表示されている Azure portal のスクリーンショット。](images/postgresql-portal.png)
 
 1. Azure Database for PostgreSQL リソースを管理するためのオプションを確認します。
-
-> **ヒント**: Azure Database for PostgreSQL の調査が完了している場合は、この演習で作成したリソース グループを削除してください。
