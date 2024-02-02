@@ -10,10 +10,6 @@ lab:
 
 このラボは完了するまで、約 **20** 分かかります。
 
-## 開始する前に
-
-管理レベルのアクセス権を持つ [Azure サブスクリプション](https://azure.microsoft.com/free)が必要です。
-
 ### Power BI Desktop をインストールする
 
 Microsoft Power BI Desktop が Windows コンピューターにまだインストールされていない場合は、無料でダウンロードしてインストールできます。
