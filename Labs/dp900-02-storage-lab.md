@@ -10,10 +10,6 @@ lab:
 
 このラボは完了するまで、約 **25** 分かかります。
 
-## 開始する前に
-
-管理レベルのアクセス権を持つ [Azure サブスクリプション](https://azure.microsoft.com/free)が必要です。
-
 ## Azure Storage アカウントをプロビジョニングする
 
 Azure Storage を使用する際の最初の手順は、Azure サブスクリプションに Azure Storage アカウントをプロビジョニングすることです。
